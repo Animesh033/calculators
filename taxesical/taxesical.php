@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Calculator For ESI, PF, Gratuity, Income & Tax 
-Plugin URI: https://complyindia.com/
+Plugin URI:
 Description: Calculate ESI, PF, Gratuity, Income & Tax
 Version: 1.0.0
 Author: Animesh
-Author URI: https://complyindia.com/
+Author URI: 
 */
 
 // Exit if accessed directly
